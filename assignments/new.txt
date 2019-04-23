@@ -1,0 +1,5 @@
+lda# 14ah
+bun# 13ah
+add@ 60dh
+and# 2a9h
+sub# 14ah
